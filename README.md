@@ -46,8 +46,8 @@ Go to http://localhost:3000/ to access the application
 
 # to access todo page please use this credential
 
--Username: akhtar.nasim1990@gmail.com
--password: 123@abc
+- Username: akhtar.nasim1990@gmail.com
+- password: 123@abc
 
 ## Technologies Used
 
