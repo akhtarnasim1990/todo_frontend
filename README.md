@@ -13,7 +13,7 @@ This project is consist of two pages
   - [Features](#features)
   - [Installation](#installation)
   - [Usage](#usage)
-- [to access asset form page please use this credential](#to-access-asset-form-page-please-use-this-credential)
+- [to access todo page please use this credential](#to-access-todo-page-please-use-this-credential)
   - [Technologies Used](#technologies-used)
   - [Note](#note)
 
@@ -44,10 +44,10 @@ Instructions for setting up and running the project locally on a developer's mac
 
 Go to http://localhost:3000/ to access the application
 
-# to access asset form page please use this credential
+# to access todo page please use this credential
 
-Username: akhtar.nasim1990@gmail.com
-password: 123@abc
+-Username: akhtar.nasim1990@gmail.com
+-password: 123@abc
 
 ## Technologies Used
 
