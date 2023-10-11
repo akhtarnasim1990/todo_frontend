@@ -1,0 +1,66 @@
+/* LoginPage.css */
+.login-page {
+  display: flex;
+  height: 100vh;
+  background-color: #0d1123;
+}
+
+.left-half {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.right-half {
+  flex: 1;
+  background-image: url("https://images.pexels.com/photos/9250132/pexels-photo-9250132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"); /* Replace with your image */
+  background-size: cover;
+  background-position: center;
+}
+
+.login-form {
+  text-align: center;
+  padding: 20px;
+  border-radius: 20px 0 20px 0; /* Rounded on the right */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  background: rgba(255, 255, 255, 0.5);
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.input-group input {
+  width: 90%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.login-page button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4a90e2; /* Button color */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.login-page button:hover {
+  background-color: #357abd; /* Hover color */
+}

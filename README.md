@@ -1,0 +1,1 @@
+# magicmindFrontend Ready now
